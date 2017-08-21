@@ -1,7 +1,7 @@
 
 public class Secretary extends Employee {
 	Secretary(){
-		bonusCalculator = new Skimpy();
+		System.out.print("เลขา   ");
+		bonusCalculator = new Generous();
 	}
-
 }
